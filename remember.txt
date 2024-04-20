@@ -1,0 +1,3 @@
+npx hardhat run scripts/assignment_2/deploy.js --network numa
+Nothing to compile
+MyQuiz deployed to: 0x35e74f45F7eBd27C1837D4369aE3a3117d217269
