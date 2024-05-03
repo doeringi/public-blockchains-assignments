@@ -1,3 +1,10 @@
+A2
 npx hardhat run scripts/assignment_2/deploy.js --network numa
 Nothing to compile
 MyQuiz deployed to: 0x35e74f45F7eBd27C1837D4369aE3a3117d217269
+
+A3
+Submitted Block number: 3045988
+NOW coins: 8
+Contract address: 0x2ea7208979503389C49c115DCbAA95e0fe7F8a2c
+Late Submision: false
